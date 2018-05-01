@@ -17,7 +17,18 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+The goal for my final project will be to visualize/break down the data retrieved from Strava (running app) for a running group called “Canaw”.
+
+
+The goal is to extract the information from Stravas club API and use it to determine location per runner, as well as distance per runner.
+
+Then that information would be sorted based on proximity, maybe by countries, regions or cities (still undecided).
+
+Ideally the final result should be dynamic, and should show current data. The grouping will be displayed in either table or a heat map (that would involve a map API, ie; google maps).
+
+The idea is to visualize the running activity as a whole group, to unite the members more & the encourage the less athletic participants (rather than show the leaders and their best times and distance).
+
+Canaw - Can and will
 
 ## Wireframes
 
