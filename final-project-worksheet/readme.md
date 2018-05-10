@@ -33,6 +33,8 @@ Canaw - Can and will
 ## Wireframes
 [Wireframe external link](https://wireframe.cc/txJUm1)
 
+![wireframe](https://res.cloudinary.com/lexstar828/image/upload/v1525991882/wireframe1.1.jpg)
+
 
 ## Priority Matrix
 
@@ -44,6 +46,7 @@ Canaw - Can and will
 | HTML CSS | H | 1hr| | |
 | Total | H | 12hrs|  |  |
 
+![priority matrix](https://res.cloudinary.com/lexstar828/image/upload/v1525992189/pm.png)
  
   
 
