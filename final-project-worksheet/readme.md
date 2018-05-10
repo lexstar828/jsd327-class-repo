@@ -31,12 +31,21 @@ The idea is to visualize the running activity as a whole group, to unite the mem
 Canaw - Can and will
 
 ## Wireframes
+[Wireframe external link](https://wireframe.cc/txJUm1)
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Strava Club API | H | 3hrs| | |
+| Static header (Club/member selector) | H | 3hrs|  |  |
+| Integration into Google Maps Api (heat map) | H | 4-5hrs| | |
+| HTML CSS | H | 1hr| | |
+| Total | H | 12hrs|  |  |
+
+ 
+  
 
 ### MVP/PostMVP - 5min
 
