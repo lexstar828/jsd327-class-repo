@@ -1,4 +1,5 @@
 # Project Overview
+Strava Clubs Activity Heatmap & Statistics
 
 ## Project Schedule
 
