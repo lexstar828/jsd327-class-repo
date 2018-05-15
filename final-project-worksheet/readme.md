@@ -38,16 +38,8 @@ Canaw - Can and will
 
 ## Priority Matrix
 
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
-| --- | :---: |  :---: | :---: | :---: |
-| Strava Club API | H | 3hrs| | |
-| Static header (Club/member selector) | H | 3hrs|  |  |
-| Integration into Google Maps Api (heat map) | H | 4-5hrs| | |
-| HTML CSS | H | 1hr| | |
-| Total | H | 12hrs|  |  |
 
-![priority matrix](https://res.cloudinary.com/lexstar828/image/upload/v1525992189/pm.png)
- 
+ ![Priority Matrix](https://res.cloudinary.com/lexstar828/image/upload/v1526414525/matrixp.jpg)
   
 
 ### MVP/PostMVP - 5min
@@ -56,14 +48,14 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP 
 
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- Use Strava Club API to pull club information
+- Render heatmap of activity with Google Maps API
+- Render data for all users (total distance) 
+
 
 #### PostMVP 
 
-- Add user auth
+- Add export data function
 
 ## Functional Components
 
@@ -73,19 +65,24 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Strava Club API | H | 3hrs| | |
+| Static header (Club/member selector) | H | 3hrs|  |  |
+| Integration into Google Maps Api (heat map) | H | 4-5hrs| | |
+| HTML CSS | H | 1hr| | |
+| Total | H | 12hrs|  |  |
+
+![Functional Components](https://res.cloudinary.com/lexstar828/image/upload/v1525992189/pm.png)
 
 ## Helper Functions
 Helper functions should be generic enought that they can be reused in other applications. Use this section to document all helper functions that fall into this category.
 
 | Function | Description | 
 | --- | :---: |  
-| Capitalize | This will capitalize the first letter in a string of text | 
+| blank | blank | 
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project. 
+ 
+ 
 
 ## Code Snippet
 
